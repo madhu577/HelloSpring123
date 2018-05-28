@@ -10,7 +10,7 @@ public class ArraysDemo {
 a[3]=9;
 a[4]=12;
 
-int b[]= {1,4,6,7,8};
+int b[]= {1,4,6,9,7,8};
 
 
 for (int i=0;i<b.length;i++)
